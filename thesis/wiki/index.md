@@ -11,6 +11,7 @@ Last touched: 2026-11-13 (weekly lint pass)
 - [india-labour-market](sources/india-labour-market.md) — PLFS fresher crisis — 2026-11-05
 - [anthropic-s1](sources/anthropic-s1.md) — S-1 + amendments — 2026-11-04
 - [anthropic-office-suite](sources/anthropic-office-suite.md) — Claude Meetings/Sheets/Whiteboards — 2026-11-11
+- [smb-needs-comparative](sources/smb-needs-comparative.md) — Indian SMB needs 2024→2026, own deep research — 2026-11-18
 - [weight-space-programming](sources/weight-space-programming.md) — CiteNet hand-written net — 2026-11-05
 
 ## Concepts
