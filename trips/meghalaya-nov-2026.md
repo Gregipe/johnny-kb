@@ -104,3 +104,9 @@ Temps: Shillong/Mawphlang/Sohra 8–22°C (cool mornings), Dawki corridor a few 
 - Trek days (2, 4, 6): comfortable shoes with grip, 2L water pp, snacks, sunscreen, hat.
 - Shnongpdeng night: one small bag each (toiletries, warm layer, change for next day). Everything else stays in the cab.
 - Dave: small backpack, cap, water bottle, energy snacks; pace expectations on Day 4.
+
+## Trip completion — CLOSED
+- Dates: Nov 7–14, 2026. All three returned to Mumbai Nov 14 (QP1142, delayed ~1h15, landed ~22:25).
+- Confirmed settled by Greg on Nov 18: cab fully paid, Axis charge ₹89,790.38 verified, Polo Orchid checkout verified, all accommodation done (Vivanta, Polo Orchid, Gawooh).
+- Trip highlights per Greg's check-ins: Nongriat double-decker trek completed with Dave keeping great pace + Blue Lagoon dip; Mawryngkhang bamboo trail; Amkoi boat day; farewell dinner at Ishana, Shillong.
+- This file is now a closed record, kept for reference.
