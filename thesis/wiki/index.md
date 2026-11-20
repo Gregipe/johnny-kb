@@ -1,6 +1,6 @@
 # Index — Greg's Knowledge Wiki
 
-Last touched: 2026-11-13 (weekly lint pass)
+Last touched: 2026-11-20 (weekly lint pass)
 
 ## Sources
 - [llm-wiki-karpathy](sources/llm-wiki-karpathy.md) — LLM Wiki pattern — 2026-11-06
@@ -12,6 +12,7 @@ Last touched: 2026-11-13 (weekly lint pass)
 - [anthropic-s1](sources/anthropic-s1.md) — S-1 + amendments — 2026-11-04
 - [anthropic-office-suite](sources/anthropic-office-suite.md) — Claude Meetings/Sheets/Whiteboards — 2026-11-11
 - [smb-needs-comparative](sources/smb-needs-comparative.md) — Indian SMB needs 2024→2026, own deep research — 2026-11-18
+- [smb-ai-capability-gap](sources/smb-ai-capability-gap.md) — Indian SMB AI capability gap, follow-up research — 2026-11-18
 - [weight-space-programming](sources/weight-space-programming.md) — CiteNet hand-written net — 2026-11-05
 
 ## Concepts

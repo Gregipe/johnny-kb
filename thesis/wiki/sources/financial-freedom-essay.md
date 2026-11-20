@@ -17,5 +17,5 @@ Financial freedom is misrepresented by the guru industry. The real path is simpl
 
 ## Connections
 - Concept: `concepts/anti-guru-positioning`
-- Street-level twin of `concepts/intelligence-inversion` (Mostaque) — same conclusion from the cultural angle.
+- Street-level twin of `concepts/intelligence-inversion` (Mostaque, `entities/emad-mostaque`) — same conclusion from the cultural angle.
 - Greg's 3 actionables derived 2026-10-31: one daily build block, one post a day, one decided number.

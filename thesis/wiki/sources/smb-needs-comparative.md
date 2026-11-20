@@ -32,3 +32,4 @@ The anxiety mix rotated: 2024 was supply-side (credit, payments-rail continuity,
 - `concepts/k-shaped-economy` — quick-commerce vs kirana is a live K-split in retail.
 - `concepts/india-labour-market` — labour-code shock changes the employment rung story.
 - The "cooled ONDC" item qualifies the earlier digital-rails optimism: rails without demand-side pull stall.
+- `sources/smb-ai-capability-gap` — 2026-11-18 follow-up decomposing the AI capability-gap finding (what SMBs use AI for; the help-gap ranking).
