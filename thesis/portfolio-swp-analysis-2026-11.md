@@ -64,7 +64,14 @@ C. 10-year rolling SWP stress test (portfolio 34% PP / 35% Quant / 31% Kotak, re
 - Optional annual harvest: redeem 50% of Quant's yearly growth (~₹3.89L/yr) → top up arbitrage → raises effective monthly income ~₹32k while keeping corpus flat.
 - Momentum caveat: index live-track record short; rule-based (Nifty 200 Momentum 30), historically 15-20% backtested, deep drawdowns.
 
-## 5. Execution notes
+## 5. Direct-holdings dividend stream (SBI acct 20038028413, FY26-27 to Nov 21)
+
+Discovered Nov 21: 33 dividend credits, ₹39,813 total (~₹5,171/mo avg, ~₹62k/yr run-rate) from ~29 payers not in the Coin screenshot — implies a direct demat portfolio:
+- Top: HDFC Bank ₹6,396, SBI ₹3,470, Shriram Finance ₹2,600, SFL ₹2,400, Bharti ₹2,400, Vardhman ₹2,100, Aptus ₹1,800, Mahanagar Gas ₹1,800, JSW ₹1,775, Tata Steel ₹1,600, Adani Ports ₹1,500, Tata Consumer ₹1,400, HUDCO ₹1,200, Dr Reddy's ₹2,968 (3 credits), Bajaj Fin ₹1,050, Eicher ₹820, Finolex ₹792, Motherson ₹630, SPIL ₹590, Natco ₹562, JK Paper ₹480, Kovai Medical ₹450, AU Small Bank ₹432, Narayana Hrudayalaya ₹225, BEL ₹192, Zen Tech ₹140, Avantel ₹40.
+- Status: 5% of the ₹1L/mo goal; taxed at slab; HDFC Bank crossed ₹5k/yr → 10% TDS check. Some credits may be NCD interest (Aptus/HUDCO pattern), not equity dividends.
+- Open question for Greg: where are these held (which demat)? Affects the ₹2cr plan and the dividend-portfolio discussion.
+
+## 6. Execution notes
 - Arbitrage lumps: immediate (market-neutral). Equity lumps: stagger over 3 monthly tranches given chop.
 - Two SWP instructions on Coin (arbitrage + PP). Leave Quant/momentum untouched — never sell volatile funds monthly.
 - Rebalance conversation: annually in December. No STP needed; keep it simple.
