@@ -83,7 +83,22 @@ Tax: sell losses ≈ ₹2.2L → harvest against gains (LTCG offset, carry-forwa
 KEEP: TATACONSUM +441%, EICHERMOT +187%, TATASTEEL +174%, JKPAPER +160%, LALPATHLAB +136%, VSSL +99%, MOTHERSON +83%, ADANIPORTS +77%, MOTILALOFS +75%, AUBANK +70%, etc. — winners stay.
 Flags: financials 27% of direct (concentration); NIFTYBEES ₹30.9L = 27% of direct (overlap with PPFCF + direct large caps); 11 positions < ₹1L. Dividend-payer discrepancy: DRL, Vardhman Special Steels, SPIL dividends arrived in bank but no holdings listed — check other demat/sold.
 
-## 8. Execution notes
+## 8. FY26-27 true total returns (Apr 1 price base + dividends, computed Nov 21)
+
+Portfolio FY26-27 total return incl dividends: +12.05% (vs NIFTYBEES +14.3% — slightly behind index this FY). MFs: Quant +25.3%, PPFCF +9.7%, Kotak +4.3% (~6.7% annualized).
+
+FY winners: KOVAI +156%, MOTILALOFS +78%, VSSL +70%, ADANIGREEN +68%, MOTHERSON +55%, ETERNAL +54%, FINCABLES +51%, LALPATHLAB +51%, ADANIPORTS +39%, BAJFINANCE +38%, AIIL +28%, APOLLOHOSP +26%, ZENTEC +25%.
+FY losers: ORIANA −89%, MUTHOOTFIN −22%, NATCOPHARM −19%, DMART −18%, SUZLON −10%, TATASTEEL −6.5%, CANFINHOME −5.3%, BEL −4%, IXIGO −3%, JIOFIN −3%, APTUS −1.8%, HUDCO −0.7%.
+
+REVISED verdict (FY lens corrected the cost-basis list):
+- Reprieved (FY-positive, was on sell list): MGL +20%, NH +19%, ZENTEC +25%, AVANTEL +16% → HOLD.
+- Tier-1 sell unchanged: ORIANA, SUZLON, APTUS (FUSION marginal, +6% FY but MFI stress).
+- Tier-2 ADDED: MUTHOOTFIN −22% (₹3.57L), NATCOPHARM −19% (₹3.05L), DMART −18% (₹1.57L — thesis-consistent), TATASTEEL trim, CANFINHOME trim optional. Plus flat BEL, IXIGO, JIOFIN.
+- Potential rotation ≈ ₹18.5L → Kotak Arbitrage income engine.
+- Dividend attribution: ₹34,155 of the ₹39,813 mapped to holdings; DRL ₹2,968 + SPIL ₹590 unmapped (holdings not found — unresolved).
+- Lifetime XIRR per stock still needs Zerodha Console → Reports → Tax P&L FY26-27 export (has all buy dates/prices).
+
+## 9. Execution notes
 - Arbitrage lumps: immediate (market-neutral). Equity lumps: stagger over 3 monthly tranches given chop.
 - Two SWP instructions on Coin (arbitrage + PP). Leave Quant/momentum untouched — never sell volatile funds monthly.
 - Rebalance conversation: annually in December. No STP needed; keep it simple.
