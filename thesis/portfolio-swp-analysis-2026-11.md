@@ -71,7 +71,19 @@ Discovered Nov 21: 33 dividend credits, ₹39,813 total (~₹5,171/mo avg, ~₹6
 - Status: 5% of the ₹1L/mo goal; taxed at slab; HDFC Bank crossed ₹5k/yr → 10% TDS check. Some credits may be NCD interest (Aptus/HUDCO pattern), not equity dividends.
 - Open question for Greg: where are these held (which demat)? Affects the ₹2cr plan and the dividend-portfolio discussion.
 
-## 6. Execution notes
+## 7. Full direct-equity holdings (Nov 21, 2026) — 42 lines, direct ₹91.57L inv → ₹115.38L cur (+26.0% vs MFs +8.8%)
+
+Verdict: Greg's direct picks BEAT his funds. Total ₹2.46cr (MFs 53% / direct 47%). Cut the rot, don't reshuffle winners.
+
+SELL tier-1 (deep red, ~₹3.28L): ORIANA-SM −60%, SUZLON −45%, APTUS −38%, AVANTEL −17%, FUSION −9%.
+SELL tier-2 (flat/structurally weak/redundant, ~₹7.53L): MGL −13%, IXIGO −9%, JIOFIN +1% (redundant financials), BEL −1.5%, NH −3%.
+Optional: DMART trim (−0.7%, flat for years — quick-commerce disruption thesis in action).
+Redeploy ~₹10.8L → Kotak Arbitrage (income engine; +₹6k/mo SWP at 6.7%).
+Tax: sell losses ≈ ₹2.2L → harvest against gains (LTCG offset, carry-forward 8 yrs).
+KEEP: TATACONSUM +441%, EICHERMOT +187%, TATASTEEL +174%, JKPAPER +160%, LALPATHLAB +136%, VSSL +99%, MOTHERSON +83%, ADANIPORTS +77%, MOTILALOFS +75%, AUBANK +70%, etc. — winners stay.
+Flags: financials 27% of direct (concentration); NIFTYBEES ₹30.9L = 27% of direct (overlap with PPFCF + direct large caps); 11 positions < ₹1L. Dividend-payer discrepancy: DRL, Vardhman Special Steels, SPIL dividends arrived in bank but no holdings listed — check other demat/sold.
+
+## 8. Execution notes
 - Arbitrage lumps: immediate (market-neutral). Equity lumps: stagger over 3 monthly tranches given chop.
 - Two SWP instructions on Coin (arbitrage + PP). Leave Quant/momentum untouched — never sell volatile funds monthly.
 - Rebalance conversation: annually in December. No STP needed; keep it simple.
