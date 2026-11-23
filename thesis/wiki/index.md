@@ -15,6 +15,7 @@ Last touched: 2026-11-22 (LLM synthetic consumers SSR paper)
 - [smb-ai-capability-gap](sources/smb-ai-capability-gap.md) — Indian SMB AI capability gap, follow-up research — 2026-11-18
 - [weight-space-programming](sources/weight-space-programming.md) — CiteNet hand-written net — 2026-11-05
 - [llm-synthetic-consumers-ssr](sources/llm-synthetic-consumers-ssr.md) — SSR synthetic consumer panels (PyMC × Colgate) — 2026-11-22
+- [db-who-wins-ai-india](sources/db-who-wins-ai-india.md) — DB Research: India AI adoption thesis — 2026-11-23
 
 ## Concepts
 - [llm-wiki](concepts/llm-wiki.md)
@@ -25,6 +26,7 @@ Last touched: 2026-11-22 (LLM synthetic consumers SSR paper)
 - [india-labour-market](concepts/india-labour-market.md)
 - [weight-space-programming](concepts/weight-space-programming.md)
 - [synthetic-consumers](concepts/synthetic-consumers.md)
+- [india-ai-adoption](concepts/india-ai-adoption.md)
 
 ## Entities
 - [andrej-karpathy](entities/andrej-karpathy.md)
