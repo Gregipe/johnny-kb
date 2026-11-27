@@ -5,16 +5,14 @@ Personal outreach, not mass outreach: the same agent identity, a purpose-built c
 ## Architecture
 
 ```
-contact dossier (contacts/<slug>.json)
-    + static identity block (persona rules)
-    + recent history tail (call-log/<slug>.jsonl summaries)
-    + per-call objective + extra context
-        -> dynamic reference_information built per call
-        -> Hunar POST /calls/ (agent_id fixed, guardrails 08:00-21:00 IST)
+static layer (in the agent, set once): identity + conversational craft + {call_context} slot
+dynamic layer (per call, custom_data): who is being called + recent history + this call's objective
+        -> hunar-voice.py call builds the dynamic layer fresh every time
+        -> Hunar substitutes it into {call_context} in the call prompt
+        -> context is rewritable any moment before the call is placed, never hardcoded
         -> call completes: result {summary, action_items} + recording_url
-        -> `hunar-voice.py digest` downloads recording, transcribes locally (Scribe),
-           appends transcript+summary to the contact's history
-        -> next call for that contact is richer than the last (compounding loop)
+        -> hunar-voice.py digest transcribes + appends history
+        -> next call's context is richer (compounding loop)
 ```
 
 ## Principles
